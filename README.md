@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=10000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhassan279&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhassan279" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhassan279&theme=radical" alt="Mohamed Hassan" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:mo.hassan2792@gmail.com" target="blank"><img align="center" src="https://cdn.liveagent.com/app/uploads/2020/11/Gmail-logo.png" alt="mo.hassan2792@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-hassan-2b2b9a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hassan-2b2b9a229" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed.hassan.719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.hassan.719" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamedhassan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedhassan9" height="30" width="40" /></a>
-<a href="https://discord.gg/#4475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4475" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="www.linkedin.com/in/mohamed-hassan-2b2b9a229">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mohamed.hassan.719">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="mailto:mo.hassan2792@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.hackerrank.com/MohamedHassan27">
+    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/MohamedHassan9">
+    <img src="https://img.shields.io/badge/Codeforces-b51c24?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces" />
+  </a>
+  <a href="https://discord.com/#4475/">
+    <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedhassan279&color=673ab7&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
@@ -25,8 +38,21 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedhassan279" /></p>
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
+  Stats
+</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=radical" alt="mohamedhassan279" /></p>
+<img width="29.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedhassan279" />&nbsp;
+<img width="33.4%" src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=radical" alt="mohamedhassan279" />&nbsp;
+<img width="35.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=radical" alt="mohamedhassan279" />&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=radical" alt="mohamedhassan279" /></p>
+---
+
+<h3>
+  <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="35"> 
+  Trophies
+</h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhassan279&theme=radical" alt="Mohamed Hassan" /></p>
+
+---
