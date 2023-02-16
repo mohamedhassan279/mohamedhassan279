@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=10000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-hassan-2b2b9a229">
+  <a href="https://www.linkedin.com/in/mohamed-hassan-2b2b9a229">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/mohamed.hassan.719">
