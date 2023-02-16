@@ -30,7 +30,7 @@
 
 ---
 
-<img width="450" height="300" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lzp03k2mmgj3x1cbh6v7yokietym32alwwsqquy1&rid=giphy.gif&ct=g"></img>
+<img width="380" height="300" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lzp03k2mmgj3x1cbh6v7yokietym32alwwsqquy1&rid=giphy.gif&ct=g"></img>
 
 <h3 align="left">Languages:</h3>
 
