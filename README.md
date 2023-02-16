@@ -43,9 +43,9 @@
   Stats
 </h3>
 
-<img width="29.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedhassan279" />&nbsp;
-<img width="33.4%" src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=radical" alt="mohamedhassan279" />&nbsp;
-<img width="35.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=radical" alt="mohamedhassan279" />&nbsp;
+<img width="29.4%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedhassan279" />&nbsp;
+<img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=radical" alt="mohamedhassan279" />&nbsp;
+<img width="35.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=radical" alt="mohamedhassan279" />
 
 ---
 
