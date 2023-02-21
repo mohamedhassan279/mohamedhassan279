@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Hassan <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=10000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=7000&pause=3000&center=true&vCenter=true&multiline=true&width=1000&&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-hassan-2b2b9a229">
