@@ -48,9 +48,9 @@
   Stats
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedhassan279" />
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=radical" alt="mohamedhassan279" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=radical" alt="mohamedhassan279" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&langs_count=10&locale=en&layout=compact&theme=holi_theme" alt="mohamedhassan279" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=holi_theme" alt="mohamedhassan279" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=holi-theme" alt="mohamedhassan279" />
 
 ---
 
@@ -58,6 +58,6 @@
   <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="35"> 
   Trophies
 </h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhassan279&theme=radical" alt="Mohamed Hassan" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhassan279&theme=darkhub" alt="Mohamed Hassan" /></p>
 
 ---
