@@ -51,9 +51,9 @@
   Stats
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&langs_count=10&locale=en&layout=compact&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="300" alt="mohamedhassan279" />
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mohamedhassan279" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&background=00011D&currStreakLabel=7A7ADB&sideLabels=7A7ADB&dates=D3D3D3&currStreakNum=D3D3D3&ring=7A7ADB&fire=2234AE&sideNums=D3D3D3&" alt="mohamedhassan279" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan279&show_icons=true&langs_count=10&locale=en&layout=compact&theme=github_dark" width="300" alt="mohamedhassan279" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan279&show_icons=true&locale=en&theme=github_dark" alt="mohamedhassan279" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan279&theme=github-dark-blue" alt="mohamedhassan279" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
